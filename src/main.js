@@ -54,7 +54,7 @@ document.querySelector('#app').innerHTML = `
   </div>
 </section>
 
-<div class="ticks">${greet("Sensei")}</div>
+<div class="ticks">${greet("Size")}</div>
 <section id="spacer"></section>
 `
 
