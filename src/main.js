@@ -3,7 +3,7 @@ import heroImg from './assets/hero.png'
 import javascriptLogo from './assets/javascript.svg'
 import viteLogo from './assets/vite.svg'
 import { setupCounter } from './counter.js'
-import { greet } from './greetings.js'
+import { greet } from './greeting.js'
 
 document.querySelector('#app').innerHTML = `
 <section id="center">
