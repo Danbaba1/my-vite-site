@@ -55,7 +55,7 @@ document.querySelector('#app').innerHTML = `
 </section>
 
 <div class="ticks">${greet("Nigeria")}</div>
-<section id="spacer">${call("Boy")}</section>
+<section id="spacer"></section>
 `
 
 setupCounter(document.querySelector('#counter'))
